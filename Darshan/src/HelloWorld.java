@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Child branch_1");
 		System.out.println("Parent");
 		System.out.println("Child from ide");
+		System.out.println("Child from github");
 		
 		
 
